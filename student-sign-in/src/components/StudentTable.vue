@@ -41,7 +41,7 @@ import StudentRow from '@/components/StudentRow.vue'
 
 
 export default {
-    name: 'StudentTable',
+    name: 'StudentTable' ,
     components: {
         StudentRow
     },

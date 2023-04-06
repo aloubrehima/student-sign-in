@@ -24,7 +24,7 @@
 
 <script>
 export default {
-    name:'NewStudentForm',
+    name:'NewStudentForm' ,
     emits: ['student-added'], // Document events this component emits
     date() {
         return {

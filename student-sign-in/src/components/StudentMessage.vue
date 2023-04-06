@@ -6,7 +6,7 @@
     </div>
 
     <div v-else class="alert alert-danger">
-        Goodbye, {{ student.name}}. See you later!
+        Goodbye, {{ student.name}}. See you later!!
     </div>
 </div>
 

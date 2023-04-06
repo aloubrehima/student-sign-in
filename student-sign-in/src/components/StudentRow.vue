@@ -14,7 +14,7 @@
 export default {
     name: 'StudentRow',
     props: {
-        student : Object,
+        student : Object ,
         edit: Boolean
     },
     methods: {
