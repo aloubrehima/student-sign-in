@@ -28,7 +28,7 @@ export default {
     emits: ['student-added'], // Document events this component emits
     date() {
         return {
-            newStudentName:'',
+            newStudentName:'' ,
             newStarID:'',
             errors: []
         }

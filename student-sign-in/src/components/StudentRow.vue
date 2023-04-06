@@ -34,7 +34,7 @@ export default {
 
 .present {
     color: gray;
-    font-style: italic;
+    font-style: italic ;
 }
 
 .absent {
