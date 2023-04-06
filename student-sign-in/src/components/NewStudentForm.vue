@@ -29,7 +29,7 @@ export default {
     date() {
         return {
             newStudentName:'' ,
-            newStarID:'',
+            newStarID:'' ,
             errors: []
         }
     },

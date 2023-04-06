@@ -14,9 +14,9 @@ import StudentMessage from './components/StudentMessage.vue'
 import StudentTable from './components/StudentTable.vue'
 
 export default {
-  name: 'App' ,
+  name: 'App',
   components: {
-    NewStudentForm,
+    NewStudentForm ,
     StudentMessage,
     StudentTable
   },

@@ -60,7 +60,7 @@ export default {
         },
         deleteStudent(student) {
             if (conform('Delete ${this.student.name}?')) {
-                this.$emit('delete-student', student )
+                this.$emit('delete-student' , student )
             }
         }
     }
